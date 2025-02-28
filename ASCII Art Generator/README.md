@@ -10,17 +10,6 @@ This project is an **ASCII Art Generator** that converts images into colored ASC
 - 💾 **Save Functionality**: Save the generated **ASCII art** as a PNG file.
 - 🖥️ **User-Friendly GUI**: Easy-to-use interface for uploading images and saving ASCII art.
 
-## Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/ascii-art-generator.git
-   cd ascii-art-generator
-   ```
-2. **Install the required dependencies**:
-   ```sh
-   pip install pillow tk
-   ```
 
 ## Usage
 
@@ -53,7 +42,7 @@ This project is an **ASCII Art Generator** that converts images into colored ASC
 
 🔹 **Example ASCII Art Output**
 
-_(Add a sample ASCII image or screenshot of the GUI here)_
+![Sample ASCII Art](./example/wow.png)
 
 ## Contributing
 
