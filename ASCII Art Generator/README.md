@@ -44,20 +44,10 @@ This project is an **ASCII Art Generator** that converts images into colored ASC
 
 ![Sample ASCII Art](./example/wow.png)
 
-## Contributing
-
-🚀 Contributions are **welcome**! If you have suggestions, improvements, or bug fixes:
-
-- Open an **issue**.
-- Submit a **pull request**.
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
-- **[Pillow](https://python-pillow.org/)** - Python Imaging Library (PIL) fork used for image processing.
+- **Pillow** - Python Imaging Library (PIL) fork used for image processing.
 - **Tkinter** - Standard Python interface to the Tk GUI toolkit.
 
 ---
