@@ -5,8 +5,8 @@ def get_db_connection():
     try:
         connection = mysql.connector.connect(
             host="localhost",
-            user="root",
-            password="12345",
+            user="",
+            password="",
             database="blog_db"
         )
         return connection
